@@ -2,8 +2,7 @@ from .main import say_hello
 
 hello = say_hello()
 
-if 2 == 2:
-    number = "two"
+number = "two"
 
 __version__ = say_hello()
 
